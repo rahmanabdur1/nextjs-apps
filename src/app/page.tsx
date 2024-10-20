@@ -1,9 +1,10 @@
-import React from 'react';
+import Services from '@/components/Services';
+
 
 const Home = () => {
   return (
-    <div className='text-white'>
-      hi theme
+    <div className=''>
+      <Services/>
     </div>
   );
 };
